@@ -22,3 +22,10 @@ if you really want to get krafty, add the item information and the department so
 
 feel free to use the index.js or index.ts (depending on which door you choose) as your playground to get your function correct before running the tests to see if they pass or not.
 
+
+### There is also a fastApi to test your skills
+in the POST endpoint, pass in a list of numbers and sum up only the even ones. If you pass in [1,2,3,4,5,6,7,8,9] you should get a result of 20.
+
+in the GET endpoint, return all the peeps back in json format
+
+
